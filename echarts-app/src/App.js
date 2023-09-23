@@ -4,7 +4,7 @@ import BarChart from './components/BarChart';
 function App() {
   return (
     <div className="App">
-      <h3>Exaltare Technologies</h3>
+      <h3>Exaltare Technologies Assignment</h3>
       <BarChart/>
     
     </div>
